@@ -1,0 +1,24 @@
+2 first: main.css
+    .model
+then: shared.css
+    .open
+
+ease-in means it starts slower and ends faster
+
+ease function cheat cheet
+---------------
+3 shared.css
+    .backdrop
+
+shared.js
+------------------
+5: shared.css
+  .main-nav__item--cta
+--------------------
+6： shared.css
+    @keyframes
+-------------
+7: customer animation
+-------------------
+9: shared.js
+    shared.js
