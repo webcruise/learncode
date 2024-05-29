@@ -1,0 +1,6 @@
+vscode plugin:
+	Material Icon Theme
+	Prettier
+	
+look up "keyboard shorcuts -> Format Document"
+

@@ -1,0 +1,3 @@
+12. Utilizing Global Constants as Identifiers in Conditional Code
+
+throw {message:'something is wrong!'};
