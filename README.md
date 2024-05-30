@@ -12,4 +12,3 @@ git remote add origin git@github.com:webcruise/learncode.git
 git branch -M main 
 git push -u origin main
 
-Here the origin is git@gzdcys_github:webcruise/learncode.git
