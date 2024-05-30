@@ -1,0 +1,33 @@
+Document and Window Object
+
+console.dir(document.getElementById('main-title'))
+
+document.querySelector('.list-item')
+
+document.querySelector('ul li:first-of-type')
+
+ul.querySelector('li')
+
+const h1=document.querySelector('h1)
+h1.textcontent
+h1.textcontent='Some new text!';
+h1.className='title'
+h1.style.color='white'
+h1.sytle.backgroundColor='red'
+
+input.setAttribute('value', 'some other default text')
+input.getAttribute()
+
+ul.children, return only element child
+ul.childNodes, return all child
+
+white-space:pre
+
+Only element nodes can have child nodes, text nodes can't have child nodes
+
+liFirst.closest('body')		find ancester
+liFirst.querySelector()		find decendant
+
+const newLi2=newLi.cloneNode(true)
+
+

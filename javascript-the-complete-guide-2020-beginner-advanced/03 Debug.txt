@@ -1,0 +1,3 @@
+chrome Devtools -> source : debug
+
+.vscode -> launch.json:

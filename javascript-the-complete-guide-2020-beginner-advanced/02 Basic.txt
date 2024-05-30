@@ -1,0 +1,12 @@
+1. `${va1} and a` or `${va1 + va2} and a` 
+
+2. input元素的textContent和value属性之间的区别是什么。在HTML中，input元素是一个表单控件，它允许用户输入文本或选择选项。textContent属性是一个只读属性，它返回元素的文本内容，而value属性是一个可读写属性，它返回或设置元素的值。因此，textContent属性返回的是input元素的文本内容，而value属性返回的是用户输入的值。
+
+3. parseFloat, parseInt
+
+4. addBtn.addEventListener('click', add);
+
+5. javascript数组push和pop操作
+
+6. typeof()
+

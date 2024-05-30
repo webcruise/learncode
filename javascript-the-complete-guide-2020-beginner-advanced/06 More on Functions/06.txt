@@ -1,0 +1,7 @@
+Functions are Objects!
+
+08 rest parameters
+
+11 bind()
+
+call() and apply()
