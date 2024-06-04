@@ -1,0 +1,10 @@
+for starter:
+npm install
+npm run watch
+
+tailwind.config.js:
+theme->screens-> add sm,md,lg,xl
+extend-> fontFamily
+
+html-><head> add google font link
+
