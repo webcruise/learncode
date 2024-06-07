@@ -1,0 +1,3 @@
+ManageGoals.vue: fragments, teleporting
+
+App.vue: dynamic component
